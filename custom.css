@@ -1,0 +1,58 @@
+body{
+    overflow-x: hidden;
+    background: black;    
+}
+
+header{
+    text-align: center;
+    background: cadetblue;
+    padding: 20px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+}
+.contenedor.main{
+    margin-bottom: 20px;
+}
+main{
+    font-family: 'Rubik Spray Paint';
+    text-align: center;
+    background: black;
+    color: azure;
+    padding: 20px 0;
+}
+aside{
+    background-image: url(Imagenes/XD.jpg);
+    background-size: 500px 300px;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Rubik Spray Paint', cursive;
+    padding: 100px;
+}
+.fondo1{
+    color: aliceblue;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.fondo2{
+    background: white;
+    
+}
+img{
+    padding: 5px;
+}
+section{
+    text-align: center;
+    color: white;
+}
+h4{
+    text-align: center;
+}
+h1{
+    font-family: 'Rubik Spray Paint', cursive;
+    color: white;
+    text-align: center;
+    text-decoration-color: aqua;
+    font-size: 100px;
+
+}
